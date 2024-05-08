@@ -1,0 +1,10 @@
+{
+    "name": "Common Card 155",
+    "image": "https://raw.githubusercontent.com/HazarDIII/RDL/main/images/805.jpg",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}

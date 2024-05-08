@@ -1,0 +1,10 @@
+{
+    "name": "Uncommon Card 3",
+    "image": "https://raw.githubusercontent.com/HazarDIII/RDL/main/images/403.jpg",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Uncommon"
+        }
+    ]
+}
